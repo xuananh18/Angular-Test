@@ -1,0 +1,24 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "test for grunt file",
+  "main": "index.js",
+  "scripts": {
+    "test": "angular"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuananh18/Angular-Test.git"
+  },
+  "author": "angular",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuananh18/Angular-Test/issues"
+  },
+  "homepage": "https://github.com/xuananh18/Angular-Test#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
+}
